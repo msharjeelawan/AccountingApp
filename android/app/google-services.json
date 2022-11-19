@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "599369892294",
+    "project_id": "traveling-30747",
+    "storage_bucket": "traveling-30747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599369892294:android:fbe36c9478ce181a65f2c7",
+        "android_client_info": {
+          "package_name": "com.overseastt.travel_accounting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599369892294-gnlp6k4vs8cs51t8q16pjul5jvehcanv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.overseastt.travel_accounting",
+            "certificate_hash": "d09c18fcd22c2ca8f6e3f8443714b1526302b937"
+          }
+        },
+        {
+          "client_id": "599369892294-ab72u8562ep1jrausf83ss3qv2vc3elg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS78cW-MEwC0DGYA11kwsRYMoA6AOoXmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599369892294-ab72u8562ep1jrausf83ss3qv2vc3elg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
